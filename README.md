@@ -15,7 +15,7 @@ Le **titre** (choisi avec soin et permettant de définir sans ambiguïté le tra
 
 La Mise en Cohérence des Objectifs du TIPE est décomposée en 5 parties successives :
 
-1. Positionnements thématiques* et mots-clés* (par ordre de priorité décroissante)
+1. Positionnements thématiques et mots-clés (par ordre de priorité décroissante)
 2. Bibliographie commentée (au maximum 650 mots)
 3. Problématique retenue (au maximum 50 mots)
 4. Objectifs du TIPE (au maximum 100 mots)
